@@ -19,10 +19,10 @@ This project was completed during my Data Engineering Internship at Cognify. The
 
 3. Project Workflow
 
-1. Data Understanding
-2. Data Cleaning & Preprocessing
-3. Exploratory Data Analysis (EDA)
-4. Insight Generation
+* Data Understanding
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Insight Generation
 
 4. Dataset
 
